@@ -1,0 +1,14 @@
+{
+    "data": [
+    {
+      "id": 1000,
+      "celular": "61982960819",
+      "carro": "Cruze",
+      "cep": "72255308",
+      "cadastro": "2015-09-13",
+      "status": "ativo",
+      "placa": "PBK0000",
+      "rastreador": "J16"
+    }
+  ]
+}
