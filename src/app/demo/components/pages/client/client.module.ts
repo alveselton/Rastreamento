@@ -18,12 +18,14 @@ import { InputNumberModule } from 'primeng/inputnumber';
 import { DialogModule } from 'primeng/dialog';
 import { TelefonePipe } from '../../utilities/telefone/telefone.pipe';
 import { InputGroupModule } from 'primeng/inputgroup';
+import { CalendarModule } from "primeng/calendar";
 
 @NgModule({
     imports: [
         CommonModule,
         ClientRoutingModule,
         TableModule,
+        CalendarModule,
         FileUploadModule,
         FormsModule,
         ButtonModule,
